@@ -24,6 +24,7 @@ html, body {
     background-color: transparent;
     border-radius: 10px 10px 0 0;
     display: grid;
+    margin: 0 8px 0 8px;
 }
 .logo-container img {
     height: 120px;
